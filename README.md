@@ -1,5 +1,5 @@
-# ngeis-laravel-unable-to-open-file-for-reading
-This project I solved unale to open file for reading which is a common error in laravel. To be able to use this you will require
+# ngeis-laravel-unable-to-open-file-for-reading 
+This project I solved unable to open file for reading which is a common error in laravel. To be able to use this you will require
  1. Web server
  2. Code editor
  3. Composer
