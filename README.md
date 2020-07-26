@@ -1,1 +1,15 @@
 # ngeis-laravel-unable-to-open-file-for-reading
+This project I solved unale to open file for reading which is a common error in laravel. To be able to use this you will require
+ 1. Web server
+ 2. Code editor
+ 3. Composer
+ 4. Browser
+ 5. php 7>=
+Setup
+Clone this repository
+When you are done copy.env.example to .env
+Generate the application key using the following command
+php artisan key:generate
+run npm install
+and Finally serve your project using the follwoing command
+php artisan serve.
