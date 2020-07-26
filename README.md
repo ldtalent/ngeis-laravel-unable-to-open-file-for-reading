@@ -6,10 +6,10 @@ This project I solved unale to open file for reading which is a common error in 
  4. Browser
  5. php 7>=
 Setup
-Clone this repository
-When you are done copy.env.example to .env
-Generate the application key using the following command
+1. Clone this repository
+2. When you are done copy.env.example to .env
+3. Generate the application key using the following command
 php artisan key:generate
-run npm install
-and Finally serve your project using the follwoing command
+4. run npm install
+5 . And Finally serve your project using the follwoing command
 php artisan serve.
