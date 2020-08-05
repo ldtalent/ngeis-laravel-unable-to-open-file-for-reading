@@ -11,5 +11,5 @@ This project I solved unable to open file for reading which is a common error in
 3. Generate the application key using the following command
 php artisan key:generate
 4. run npm install
-5 . And Finally serve your project using the follwoing command
+5 . And Finally serve your project using the following command
 php artisan serve.
