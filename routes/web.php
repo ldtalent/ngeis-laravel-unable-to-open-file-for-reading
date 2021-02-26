@@ -16,6 +16,7 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('/multiple','MultipleMailsController@index');
 Route::post('attachment/add','MailController@add');
 
 Auth::routes();
